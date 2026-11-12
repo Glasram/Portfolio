@@ -30,6 +30,11 @@ i{
   font-family:'Times New Roman', Times, serif
 }
 
-.card{
-  width: 18rem;
+.bottomgap {
+  margin-bottom: 100px;
 }
+
+.white-text{
+  color:#ffffff
+}
+

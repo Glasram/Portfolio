@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  display: block;
+  gap: 10px;
+  padding: 10px;
+}
+
+col {
+  background-color: #90be6d;
+}
+
+h3 {
+  color:#ffffff
+}
+
+h2 {
+  color:#ffffff
+}
+
+p {
+  color: #000000;
+}
+
+i{
+  font-family:'Times New Roman', Times, serif
+}
+
+.card{
+  width: 18rem;
+}
